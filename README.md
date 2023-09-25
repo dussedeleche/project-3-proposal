@@ -13,11 +13,13 @@ The app's primary goal is to educate users about the intricacies of sports betti
 
 ## Wire Frames
 **Landing Page**
+
 <img width="654" alt="Screenshot 2023-09-25 at 9 34 23 AM" src="https://github.com/dussedeleche/project-3-proposal/assets/140461184/d23eb304-fae3-41e2-a206-5b6fdb906757">
 
 
 
 <img width="446" alt="Screenshot 2023-09-25 at 9 34 34 AM" src="https://github.com/dussedeleche/project-3-proposal/assets/140461184/92747440-992a-4b2b-ac39-d357fad07efd">
+
 **Log in**
 
 
