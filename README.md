@@ -1,3 +1,5 @@
+![vin10](https://github.com/dussedeleche/project-3-proposal/assets/140461184/a36531b0-9792-4dde-958b-f4c47b47162a)
+
 Project Proposal: Sports Betting app
 
 GamedayGold
@@ -8,14 +10,16 @@ Game Day Gold is an innovative sports betting app designed for both beginners an
 The app's primary goal is to educate users about the intricacies of sports betting, making it an ideal platform for those looking to learn the ropes. Whether you're a seasoned sports fanatic or just starting to explore the world of sports betting, Game Day Gold provides a safe and engaging environment to hone your betting skills while having fun.
 
 
+
 ## Wire Frames
 **Landing Page**
-<img https://github.com/dussedeleche/project-3-proposal/blob/main/vin10.jpg>
+<img width="654" alt="Screenshot 2023-09-25 at 9 34 23 AM" src="https://github.com/dussedeleche/project-3-proposal/assets/140461184/d23eb304-fae3-41e2-a206-5b6fdb906757">
 
 
 
+<img width="446" alt="Screenshot 2023-09-25 at 9 34 34 AM" src="https://github.com/dussedeleche/project-3-proposal/assets/140461184/92747440-992a-4b2b-ac39-d357fad07efd">
 **Log in**
-<img https://github.com/dussedeleche/project-3-proposal/blob/main/Screenshot%202023-09-25%20at%209.34.34%20AM.png>
+
 
 
 **Profile**
