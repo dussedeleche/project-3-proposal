@@ -10,12 +10,12 @@ The app's primary goal is to educate users about the intricacies of sports betti
 
 ## Wire Frames
 **Landing Page**
-
+<img https://github.com/dussedeleche/project-3-proposal/blob/main/vin10.jpg>
 
 
 
 **Log in**
-
+<img https://github.com/dussedeleche/project-3-proposal/blob/main/Screenshot%202023-09-25%20at%209.34.34%20AM.png>
 
 
 **Profile**
@@ -27,7 +27,7 @@ The app's primary goal is to educate users about the intricacies of sports betti
 
 **Game page**
 
-
+<img https://github.com/dussedeleche/project-3-proposal/blob/main/Screenshot%202023-09-25%20at%209.34.23%20AM.png>
 
 ## User Stories
 
